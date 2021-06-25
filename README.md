@@ -1,6 +1,6 @@
 # cra-template-pleb
 
-This is a knockoff of the official base template for [Create React App](https://github.com/facebook/create-react-app).
+This is a knockoff of the official typescript template for [Create React App](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript).
 
 ```
 npx create-react-app my-app --template pleb
@@ -11,9 +11,10 @@ npx create-react-app my-app --template pleb
 - typescript-parser
 - prettier
 - [eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+- husky
 
-For more information, please refer to:
+## License
 
-- [CRA base template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template) - the official base template for CRA
-- [Custom Templates](https://create-react-app.dev/docs/custom-templates) - How to create a custom CRA template
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+**[MIT license](http://opensource.org/licenses/mit-license.php)**
